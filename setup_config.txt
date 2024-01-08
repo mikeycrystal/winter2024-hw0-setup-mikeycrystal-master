@@ -1,0 +1,2 @@
+The latest version of Python is 3.12.1, and you have the same installed.
+Python is running in a virtual environment called .venv, located at /Users/michaelcrystal/Desktop/winter2024-hw0-setup-mikeycrystal-master/.venv.
